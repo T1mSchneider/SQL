@@ -1,3 +1,8 @@
+Given this ERD
+
+<img src="https://github.com/T1mSchneider/T1mSchneider.github.io/blob/master/images/sql1.2.png"/>
+<img src="https://github.com/T1mSchneider/T1mSchneider.github.io/blob/master/images/sql1.1.png"/>
+
 Show all of the patients grouped into weight groups.
 Show the total amount of patients in each weight group.
 Order the list by the weight group decending.
